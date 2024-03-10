@@ -17,3 +17,5 @@ kill -SIGHUP <process ID>
 
 sleep 180
 
+sudo lsof /var/log/messages
+
